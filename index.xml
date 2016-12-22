@@ -16,7 +16,7 @@
       <pubDate>Fri, 16 Dec 2016 14:54:24 +0300</pubDate>
       
       <guid>https://farmradiohangar.github.io/post/hello-mathjax-and-highligh/</guid>
-      <description>&lt;div&gt;$\frac{1}{\sqrt{x}}$&lt;/div&gt;
+      <description>&lt;div&gt;$$\frac{1}{\sqrt{x}}$$&lt;/div&gt;
 
 &lt;p&gt;Wait lets see what some syntax highlighting looks like! And a bit of extra stuff in here&lt;/p&gt;
 
