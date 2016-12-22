@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Farm Radio Hangar</title>
-    <link>http://hangar.farmradio.org/tags/math/index.xml</link>
+    <link>http://farmradiohangar.github.io/tags/math/index.xml</link>
     <description>Recent content on Farm Radio Hangar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyleft - 2016</copyright>
-    <atom:link href="http://hangar.farmradio.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://farmradiohangar.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello Mathjax and Highlight.js</title>
-      <link>http://hangar.farmradio.org/post/hello-mathjax-and-highligh/</link>
+      <link>http://farmradiohangar.github.io/post/hello-mathjax-and-highligh/</link>
       <pubDate>Fri, 16 Dec 2016 14:54:24 +0300</pubDate>
       
-      <guid>http://hangar.farmradio.org/post/hello-mathjax-and-highligh/</guid>
+      <guid>http://farmradiohangar.github.io/post/hello-mathjax-and-highligh/</guid>
       <description>&lt;div&gt;$\frac{1}{\sqrt{x}}$&lt;/div&gt;
 
 &lt;p&gt;Wait lets see what some syntax highlighting looks like! And a bit of extra stuff in here&lt;/p&gt;
