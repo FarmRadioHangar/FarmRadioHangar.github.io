@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyleft - 2016</copyright>
-    <lastBuildDate>Fri, 16 Dec 2016 14:54:24 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 12:28:09 +0300</lastBuildDate>
     <atom:link href="https://farmradiohangar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>bart testing math and code</title>
+      <link>https://farmradiohangar.github.io/post/bart-testing-math-and-code/</link>
+      <pubDate>Thu, 05 Jan 2017 12:28:09 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/bart-testing-math-and-code/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello Mathjax and Highlight.js</title>
@@ -18,7 +27,7 @@
       <guid>https://farmradiohangar.github.io/post/hello-mathjax-and-highligh/</guid>
       <description>&lt;div&gt;$$\frac{1}{\sqrt{x}}$$&lt;/div&gt;
 
-&lt;p&gt;Wait lets see what some syntax highlighting looks like! And a bit of extra stuff in here&lt;/p&gt;
+&lt;p&gt;Wait Wait wait&amp;hellip;.Wait lets see what some syntax highlighting looks like! And a bit of extra stuff in here&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;section id=&amp;quot;main&amp;quot;&amp;gt;
   &amp;lt;div&amp;gt;
@@ -55,7 +64,8 @@ clean:
       <pubDate>Fri, 16 Dec 2016 14:18:08 +0300</pubDate>
       
       <guid>https://farmradiohangar.github.io/post/testing-math-and-code/</guid>
-      <description></description>
+      <description>&lt;p&gt;yadda yadda jazzy jazzy&lt;/p&gt;
+</description>
     </item>
     
     <item>
