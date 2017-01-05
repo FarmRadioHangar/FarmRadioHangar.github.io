@@ -7,17 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyleft - 2016</copyright>
-    <lastBuildDate>Thu, 05 Jan 2017 12:28:09 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2016 14:54:24 +0300</lastBuildDate>
     <atom:link href="https://farmradiohangar.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>bart testing math and code</title>
-      <link>https://farmradiohangar.github.io/post/bart-testing-math-and-code/</link>
-      <pubDate>Thu, 05 Jan 2017 12:28:09 +0300</pubDate>
-      
-      <guid>https://farmradiohangar.github.io/post/bart-testing-math-and-code/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Hello Mathjax and Highlight.js</title>
