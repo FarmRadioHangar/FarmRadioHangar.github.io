@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Farm Radio Hangar</title>
+    <link>https://farmradiohangar.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on Farm Radio Hangar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyleft - 2016</copyright>
+    <lastBuildDate>Tue, 17 Jan 2017 20:47:44 +0300</lastBuildDate>
+    <atom:link href="https://farmradiohangar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>travisme</title>
+      <link>https://farmradiohangar.github.io/post/post-title/</link>
+      <pubDate>Tue, 17 Jan 2017 20:47:44 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/post-title/</guid>
+      <description>&lt;p&gt;try this&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>helloman again</title>
+      <link>https://farmradiohangar.github.io/post/post-title/</link>
+      <pubDate>Tue, 17 Jan 2017 15:14:46 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/post-title/</guid>
+      <description>&lt;p&gt;here comes trouble - here comes the danger&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>helloman</title>
+      <link>https://farmradiohangar.github.io/post/post-title/</link>
+      <pubDate>Tue, 17 Jan 2017 15:04:57 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/post-title/</guid>
+      <description>&lt;p&gt;here we go again
+and again&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://farmradiohangar.github.io/post/testing/</link>
+      <pubDate>Fri, 06 Jan 2017 15:32:51 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/testing/</guid>
+      <description>&lt;p&gt;hello world hello again
+and again and again
+Gernest and surfacescan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bart testing math and code</title>
+      <link>https://farmradiohangar.github.io/post/bart-testing-math-and-code/</link>
+      <pubDate>Thu, 05 Jan 2017 12:28:09 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/bart-testing-math-and-code/</guid>
+      <description>&lt;p&gt;Getting in here now
+and even a little bit deeper I&amp;rsquo;d say&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello Mathjax and Highlight.js</title>
+      <link>https://farmradiohangar.github.io/post/hello-mathjax-and-highligh/</link>
+      <pubDate>Fri, 16 Dec 2016 14:54:24 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/hello-mathjax-and-highligh/</guid>
+      <description>&lt;div&gt;$$\frac{1}{\sqrt{x}}$$&lt;/div&gt;
+
+&lt;p&gt;Wait Wait wait&amp;hellip;.Wait lets see what some syntax highlighting looks like! And a bit of extra stuff in here&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;section id=&amp;quot;main&amp;quot;&amp;gt;
+  &amp;lt;div&amp;gt;
+    &amp;lt;h1 id=&amp;quot;title&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+    {{ range .Data.Pages }}
+      {{ .Render &amp;quot;summary&amp;quot;}}
+    {{ end }}
+  &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-makefile&#34;&gt;# Makefile
+
+BUILDDIR      = _build
+EXTRAS       ?= $(BUILDDIR)/extras
+
+.PHONY: main clean
+
+main:
+	@echo &amp;quot;Building main facility...&amp;quot;
+	build_main $(BUILDDIR)
+
+clean:
+	rm -rf $(BUILDDIR)/*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And that is that!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uliza:Connecting broadcasters and farmers for better radio</title>
+      <link>https://farmradiohangar.github.io/post/uliza-connecting-broadcasters-and-farmers/</link>
+      <pubDate>Fri, 09 Sep 2016 10:54:24 +0200</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/uliza-connecting-broadcasters-and-farmers/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/I3chKFOP4QE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;At Farm Radio International we work to share knowledge with small-scale African farmers and make sure their voices are heard. Radio is a really effective way to reach a large audience, but it is essentially a one-way communications tool. So how do make sure that we’re helping radio stations to engage with listeners in an actual conversation?&lt;/p&gt;
+
+&lt;p&gt;Radio and mobile phones are the most powerful communications tools in Africa. And they are stronger together than they are alone.&lt;/p&gt;
+
+&lt;p&gt;Combining radio with other technologies is all in a day’s work at The Hangar, our radio and ICT innovation lab in Arusha, Tanzania.&lt;/p&gt;
+
+&lt;p&gt;Working in partnership with our friends at VOTO Mobile with support from the Bill &amp;amp; Melinda Gates Foundation, the team at The Hangar developed a web-based application for gathering and analyzing feedback and questions from audience members via mobile phones. It’s called Uliza, Swahili for “to ask.”&lt;/p&gt;
+
+&lt;p&gt;At Farm Radio International we work to share knowledge with small-scale African farmers and make sure their voices are heard. Radio is a really effective way to reach a large audience, but it is essentially a one-way communications tool. So how do make sure that we’re helping radio stations to engage with listeners in an actual conversation?&lt;/p&gt;
+
+&lt;p&gt;Radio and mobile phones are the most powerful communications tools in Africa. And they are stronger together than they are alone.
+Broadcaster Clara Moita from Radio 5 in Tanzania on a visit to The Hangar.
+Broadcaster Clara Moita of Radio 5 in Arusha, Tanzania, on a visit to The Hangar.&lt;/p&gt;
+
+&lt;p&gt;Combining radio with other technologies is all in a day’s work at The Hangar, our radio and ICT innovation lab in Arusha, Tanzania.&lt;/p&gt;
+
+&lt;p&gt;Working in partnership with our friends at VOTO Mobile with support from the Bill &amp;amp; Melinda Gates Foundation, the team at The Hangar developed a web-based application for gathering and analyzing feedback and questions from audience members via mobile phones. It’s called Uliza, Swahili for “to ask.”&lt;/p&gt;
+
+&lt;p&gt;Uliza was designed to encourage participatory radio by making it easier for listeners to engage with radio stations and for radio stations to visualize and interpret audience feedback. It utilizes VOTO Mobile’s interactive voice response (IVR) system and the ubiquity of basic mobile phones to enable a two-way conversation.&lt;/p&gt;
+
+&lt;p&gt;IVR technology connects people with computer programs through voice commands and keypad inputs. And it’s a very powerful way to connect small-scale farmers with the radio stations that serve them, and to help those stations serve them better.&lt;/p&gt;
+
+&lt;p&gt;With Uliza, farmers can access important messages and alerts, vote on poll questions, leave messages, and request the delivery of specific information. For example, in our orange-fleshed sweet potato (OFSP) project, Uliza connected farmers looking to source OFSP vines with local vine suppliers. If a listener responded “no” when asked if they knew where to access vines, the system would be prompted to provide the location of local OFSP vine sellers.&lt;/p&gt;
+
+&lt;p&gt;Uliza presents data from listeners visually, making it easy for broadcasters to interpret the information and use it during broadcasts. They can air comments left in voice messages, share listeners’ questions with on-the-air experts, integrate audience feedback into on-air discussions, and get feedback on radio programs.&lt;/p&gt;
+
+&lt;p&gt;In this way, Uliza is supporting a continuous feedback loop that makes farm radio better for its listeners. And that’s what it’s all about.&lt;/p&gt;
+
+&lt;p&gt;(blog entry originally appeared on Farm Radio&amp;rsquo;s blog here: &lt;a href=&#34;http://www.farmradio.org/ourblog/2016/09/09/uliza-connecting-broadcasters-farmers/&#34;&gt;http://www.farmradio.org/ourblog/2016/09/09/uliza-connecting-broadcasters-farmers/&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping our impact</title>
+      <link>https://farmradiohangar.github.io/post/mapping-our-impact/</link>
+      <pubDate>Thu, 18 Feb 2016 14:58:37 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/mapping-our-impact/</guid>
+      <description>&lt;p&gt;With upwards of 35 weekly broadcasts across sub-Saharan Africa, estimating audiences is a challenging but essential job for Farm Radio International. Radio goes a long way but it does not go everywhere. Hills and valleys play a huge role in determining whether or not a given community can listen. If we are to measure the impact of broadcasts in a meaningful way, it is important to know both where the signal goes and where it does not go.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://farmradiohangar.github.io/images/2016/Feb/Radio_5_Arusha_web.png&#34; alt=&#34;Radio 5 coverage map&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Radio 5 coverage map
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Unfortunately, accurate radio coverage maps for many of our partner stations do not exist. So we adapted existing, open-source software used by radio equipment contractors to meet the needs of radio broadcasters in Africa. The software works in conjunction with the detailed terrain maps produced by Google Earth and others to give an accurate signal map.&lt;/p&gt;
+
+&lt;p&gt;By combining the coverage pattern with a population density database, it is possible to estimate the potential listening audience for any radio station. Radio-dark zones are also obvious, which helps us plan household survey and evaluation work. Comparing the knowledge and behaviour of farmers with access to the radio program to those who cannot access the broadcast allows us to isolate the impact of a particular radio program.&lt;/p&gt;
+
+&lt;p&gt;As a bonus, our partner radio stations now have a much better idea of their audience reach. That can help with setting advertising and sponsorship rates — adding to financial sustainability for the stations and helping them to better serve their audiences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Innovations: Beeping for vital information</title>
+      <link>https://farmradiohangar.github.io/post/beep-for-information/</link>
+      <pubDate>Thu, 04 Feb 2016 15:26:39 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/beep-for-information/</guid>
+      <description>&lt;p&gt;Radio is a fantastic tool for reaching millions of listeners with life-changing information. But the cell phone revolution is making this communication tool even more powerful. A cell phone allows listeners to call the radio station and contribute to a program.&lt;/p&gt;
+
+&lt;p&gt;‘Beeping’ also allows callers to contribute and receive information in new ways. ‘Beeping’ has become a new buzzword at The Hangar, our Radio and Innovation Lab located in Arusha, Tanzania.&lt;/p&gt;
+
+&lt;p&gt;Beep2vote allows listeners to vote in a poll question by simply leaving a missed call ‘beep’ to a designated number. Generally a separate number is designated to each option in the poll question, so the missed calls are simply tallied.&lt;/p&gt;
+
+&lt;p&gt;The Listening Post builds on this by instead using an interactive voice response system to call the farmer and conduct a poll using the keypad. This means farmers can also add their voice to open-ended questions.&lt;/p&gt;
+
+&lt;p&gt;Leaving a missed call ‘beep’ is free for the caller, which is important because while cell phones are fairly common across Africa, air time can be expensive.&lt;/p&gt;
+
+&lt;p&gt;Here are some other ways we are using ‘beeping:’&lt;/p&gt;
+
+&lt;p&gt;Beep4weather&lt;/p&gt;
+
+&lt;p&gt;Weather information is vital for farmers. This is more than just the temperature; information on when major rainfall, a heat wave or drought it expected helps farmers make decisions about planting and harvesting.&lt;/p&gt;
+
+&lt;p&gt;Beep4weather provides this information on-demand, coupled with agricultural tips. Farmers ‘beep’ the number, and an interactive voice response system returns the call, providing a recent weather report and related agricultural tips. Local broadcasters are engaged to gather this information, record it and promote the system on their radio show.&lt;/p&gt;
+
+&lt;p&gt;Beep2vox&lt;/p&gt;
+
+&lt;p&gt;In radio, “vox” is a term for voice (from the Latin). Beep2vox is our system for putting more voices on air, without cost to the caller.&lt;/p&gt;
+
+&lt;p&gt;Sharing farmers voices over the airwaves is an important component for participatory radio. Our beep2vox system allows farmers to call the radio station and share their voice — for free. After leaving a free missed call beep, the farmer is called back and asked to share their opinion on the question of the week.&lt;/p&gt;
+
+&lt;p&gt;This system is being used in our Her Voice on Air project in four countries: Ethiopia, Malawi, Tanzania and Uganda. Beep2vox is getting more women’s voices on air.&lt;/p&gt;
+
+&lt;p&gt;Beep4tips&lt;/p&gt;
+
+&lt;p&gt;Farmers have hectic schedules that don’t always leave time to tune in to agricultural programs. Beep4tips allows farmers to catch up on the important information they may have missed.&lt;/p&gt;
+
+&lt;p&gt;Broadcasters record the highlights from their show to share with listeners. Callers ‘beep’ the number shared by the radio station, and an interactive voice response system returns the call to play this summary.&lt;/p&gt;
+
+&lt;p&gt;Beep4tips is also useful for farmers who need a reminder of the show’s advice.&lt;/p&gt;
+
+&lt;p&gt;Beep4inputs&lt;/p&gt;
+
+&lt;p&gt;Sometimes, the hardest part of trying to grow a new crop is finding the materials. Beep4inputs is designed to connect farmers with local suppliers of agricultural inputs, such as seeds, vines and even specially-designed storage bags.&lt;/p&gt;
+
+&lt;p&gt;After leaving a missed call ‘beep’ to a designated phone number, farmers will receive a call back. A recorded message provides them with access to a directory of suppliers based on their location – all of this at no cost to the farmer.&lt;/p&gt;
+
+&lt;p&gt;Bart Sullivan, ‘Captain’ of The Hangar, describes the service as a ‘Yellow Pages’ for agricultural inputs, linking supply and demand. It has even helped farmers start their own agribusiness.&lt;/p&gt;
+
+&lt;p&gt;“Many distributors have been quite successful from being referred to other farmers through the service, so much so that farmers see it as a great business opportunity. A year later they come back and say ‘We were beginners last year, but now we’re selling vines. Can you put our names on the list?’ So it becomes a circle.”&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
