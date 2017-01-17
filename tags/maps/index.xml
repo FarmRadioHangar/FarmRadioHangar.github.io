@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farm Radio Hangar</title>
+    <link>https://farmradiohangar.github.io/tags/maps/index.xml</link>
+    <description>Recent content on Farm Radio Hangar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyleft - 2016</copyright>
+    <atom:link href="https://farmradiohangar.github.io/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mapping our impact</title>
+      <link>https://farmradiohangar.github.io/post/mapping-our-impact/</link>
+      <pubDate>Thu, 18 Feb 2016 14:58:37 +0300</pubDate>
+      
+      <guid>https://farmradiohangar.github.io/post/mapping-our-impact/</guid>
+      <description>&lt;p&gt;With upwards of 35 weekly broadcasts across sub-Saharan Africa, estimating audiences is a challenging but essential job for Farm Radio International. Radio goes a long way but it does not go everywhere. Hills and valleys play a huge role in determining whether or not a given community can listen. If we are to measure the impact of broadcasts in a meaningful way, it is important to know both where the signal goes and where it does not go.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://farmradiohangar.github.io/images/2016/Feb/Radio_5_Arusha_web.png&#34; alt=&#34;Radio 5 coverage map&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Radio 5 coverage map
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Unfortunately, accurate radio coverage maps for many of our partner stations do not exist. So we adapted existing, open-source software used by radio equipment contractors to meet the needs of radio broadcasters in Africa. The software works in conjunction with the detailed terrain maps produced by Google Earth and others to give an accurate signal map.&lt;/p&gt;
+
+&lt;p&gt;By combining the coverage pattern with a population density database, it is possible to estimate the potential listening audience for any radio station. Radio-dark zones are also obvious, which helps us plan household survey and evaluation work. Comparing the knowledge and behaviour of farmers with access to the radio program to those who cannot access the broadcast allows us to isolate the impact of a particular radio program.&lt;/p&gt;
+
+&lt;p&gt;As a bonus, our partner radio stations now have a much better idea of their audience reach. That can help with setting advertising and sponsorship rates — adding to financial sustainability for the stations and helping them to better serve their audiences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
